@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m like to develop **Deep Learning projects**
+- 🔭 I’m like to develop **Deep Learning Projects**
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
-- 👯 I’m interested in **CNN models**
+- 👯 I’m interested in **CNN Models**
 
 - 📫 How to reach me **reccos1020@gmail.com**
 
