@@ -9,9 +9,9 @@
 
 - 🔭 I’m like to develop **Deep Learning Projects**
 
-- 🌱 I’m currently learning **Machine Learning and Data Analysis**
+- 🌱 I’m currently learning **Deep Learning and Data Analysis**
 
-- 👯 I’m interested in **CNN Models**
+- 👯 I’m interested in **Computer Vision**
 
 - 📫 How to reach me **reccos1020@gmail.com**
 
