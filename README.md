@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MinJae Lee a.k.a reccos7</h1>
+<h1 align="center">Hi 👋, I'm MinJae Lee a.k.a 98minjae</h1>
 <h3 align="center">A passionate AI/ML/DL developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reccos7&label=Profile%20views&color=0e75b6&style=flat" alt="reccos7" /> </p>
