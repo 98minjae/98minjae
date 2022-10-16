@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MinJae Lee a.k.a 98minjae</h1>
-<h3 align="center">A passionate AI/ML/DL developer from South Korea</h3>
+<h3 align="center">A passionate CV developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=98minjae&label=Profile%20views&color=0e75b6&style=flat" alt="98minjae" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m like to develop **Deep Learning Projects**
+- 🔭 I like to develop **CV Projects**
 
-- 🌱 I’m currently learning **Deep Learning and Data Analysis**
+- 🌱 I’m currently learning **3D Generation**
 
 - 👯 I’m interested in **Computer Vision**
 
