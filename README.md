@@ -9,9 +9,9 @@
 
 - 🔭 I like to develop **CV Projects**
 
-- 🌱 I’m currently learning **3D Generation**
+- 🌱 I’m currently learning **Continual Learning**
 
-- 👯 I’m interested in **Computer Vision**
+- 👯 I’m interested in **Computer Vision, Continual Learning**
 
 - 📫 How to reach me **reccos1020@gmail.com**
 
