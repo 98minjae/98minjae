@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I like to develop **CV Projects**
+- 🔭 I like to develop **CV, ML, VLM Projects**
 
 - 🌱 I’m currently learning **Continual Learning**
 
-- 👯 I’m interested in **Computer Vision, Continual Learning**
+- 👯 I’m interested in **Computer Vision, Continual Learning, Multi-Modal**
 
 - 📫 How to reach me **reccos1020@gmail.com**
 
-- ⚡ Fun fact **Seeking Intriguing Deep Learning Projects**
+- ⚡ Fun fact **Seeking Intriguing Researches**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
