@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MinJae Lee a.k.a 98minjae</h1>
+<h1 align="center">Hi 👋, I'm Minjae Lee a.k.a 98minjae</h1>
 <h3 align="center">A passionate CV developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=98minjae&label=Profile%20views&color=0e75b6&style=flat" alt="98minjae" /> </p>
